@@ -14,6 +14,17 @@
     "lodash": "^4.17.21"
   },
   "devDependencies": {
+    "@eslint/create-config": "^1.9.0",
+    "@stylistic/eslint-plugin": "^4.4.0",
+    "eslint": "^9.27.0",
     "prettier": "^3.5.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Estepa08/hexlet-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Estepa08/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/Estepa08/hexlet-js#readme"
 }
