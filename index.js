@@ -1,5 +1,3 @@
-// import _ from './lodash.js'
-import _ from "lodash";
+import getBirthYear from './src/index.js'
 
-console.log(_.last(["one", "two"]));
-console.log(_.last(["one", "two"]));
+getBirthYear()
